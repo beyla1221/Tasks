@@ -18,7 +18,7 @@ namespace TaskProject.Controllers
             return Ok(res);
         }
         // POST: TasksController/Create
-        [HttpPost("createTask")]
+        [HttpPost("rrrrrrrrrrrrrrr")]
         public ActionResult createTask( MyTask task)
         {
             var res=tasksService.createTask(task);
